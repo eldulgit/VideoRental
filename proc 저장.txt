@@ -1,0 +1,25 @@
+고객 정보
+Customer_Select 고객 조회(하단 그리드)
+Customer_Insert 고객 추가
+Customer_Update 고객 저장
+Customer_Delete 고객 삭제
+
+비디오 정보
+Video_Select 비디오 조회(하단 그리드)
+Video_Insert 비디오 추가
+Video_Update 비디오 저장
+Video_Delete 비디오 삭제
+
+환경 설정
+Setting_Select 설정값 보여주기
+Setting_Insert 설정값 등록
+Setting_Update 설정값 수정
+
+Video_Genre_Select 비디오 장르
+
+대여 관리
+Customer_Find 고객 정보 조회
+Video_Find 비디오 정보 조회
+Rental_FindByCustomer 고객이 빌린 비디오 grid에 조회
+Rental_Insert 대여 기록 저장
+Rental_Return 반납 기록(삭제)
