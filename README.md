@@ -46,17 +46,3 @@ C# Windows Forms와 SQL Server를 활용하여 제작한 비디오 대여 관리
 ### ADO.NET
 
 C# Windows Forms 애플리케이션에서 ADO.NET을 사용하여 SQL Server와 연결하고 데이터를 조회, 등록, 수정, 삭제하도록 구현했습니다.
-
-## 프로젝트 구조
-
-```text
-VideoRental/
-├── VideoRental/
-│   ├── formCustomer.cs
-│   ├── formVideoInfo.cs
-│   ├── formVideoRental.cs
-│   ├── formVideoRentalManage.cs
-│   ├── formVideoRentalSetting.cs
-│   └── ...
-├── VideoRental.sql
-└── proc 저장.txt
